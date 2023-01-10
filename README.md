@@ -7,7 +7,7 @@ A new generation of [Sypex Geo library](https://sypexgeo.net/)
 You can install it through Composer:
 
 ```bash
-$ composer require yamilovs/sypex-geo
+$ composer require farit-slv/sypex-geo
 ```
 
 # Basic Usage
